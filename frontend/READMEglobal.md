@@ -1,8 +1,8 @@
-## Message Contract
+## Registery Contract Dapp
 
 ## Description
 
-A contract that that sets message and gets message
+A contract that gets name and age of an individual
 Getting Started
 
 ## Prerequisites
