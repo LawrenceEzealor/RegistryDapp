@@ -89,7 +89,7 @@ function App() {
             Update Name
           </button>
         </div>
-        <div>
+        <div className="w-[467px] m-auto">
           <input
             type="text"
             // value={entityAge}
@@ -110,7 +110,7 @@ function App() {
           onClick={getEntityDetails}
           class="bg-green-500 hover:bg-blue-400 text-white mr-5 ml-5 font-bold py-2 mt-5 px-4 rounded"
         >
-          getEntityDetail
+          Get Detail
         </button>
       </div>
     </div>
